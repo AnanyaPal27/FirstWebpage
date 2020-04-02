@@ -1,0 +1,18 @@
+h2{
+	color: white;
+	background-color:orange;
+	font-family: Times; 
+}
+li{
+	color: red;
+	background-color:yellow;
+}
+h1{
+	color:white;
+	font-size: 500%;
+	background-color: black;
+	text-shadow: 20%;
+}
+body{
+	font-family:'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;}
+}
